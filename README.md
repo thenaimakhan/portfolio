@@ -2,12 +2,12 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNDI2YzQ4YmMtM2EwOS00YTYzLWEyYzQtNDc1YjJjYjVkYzE3IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&disablecdnExpiration=1720072768
 
-## Problem Statement
+# Problem Statement
 
 The goal of this analysis is to provide a comprehensive overview of sales performance, customer segmentation, product category profitability, and geographical distribution for a retail business. This will help identify key trends, optimize inventory management, and enhance decision-making processes for improved business outcomes.
 
 
-### Data Description
+# Data Description
 
 The dataset is a sales transaction record. Each row represents a single transaction and includes detailed information about the order. Here's a breakdown of the columns:
 
@@ -33,7 +33,7 @@ The dataset is a sales transaction record. Each row represents a single transact
     20. Returns: Indicates if the product was returned.
     21. Payment Mode: The payment method used for the transaction (e.g., Online, Cards, COD).
 
-### Snapshot of Power BI Dashboard
+# Snapshot of Power BI Dashboard
 
 
 ![2024-07-04 (2)](https://github.com/thenaimakhan/portfolio/assets/112707772/71b5ae7e-9daa-492f-a147-d4f5e8872f5d)
